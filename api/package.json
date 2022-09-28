@@ -1,0 +1,24 @@
+{
+  "name": "extintores-sc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matusola01/Extintores-SantaCruz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matusola01/Extintores-SantaCruz/issues"
+  },
+  "homepage": "https://github.com/Matusola01/Extintores-SantaCruz#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
